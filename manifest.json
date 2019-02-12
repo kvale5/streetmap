@@ -1,0 +1,24 @@
+{
+    "name": "Street Map",
+    "short_name": "Street Map",
+    "icons": [
+        {
+            "src": "/images/streetmap/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/streetmap/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#231f5c",
+    "background_color": "#231f5c",
+    "display": "standalone",
+    "start_url": "https://kvale5.github.io/streetmap/",
+    "lang": "",
+    "orientation": "any",
+    "scope": "/streetmap/",
+    "description": "This app is for the homeless so that they can have a map showing them their local job centres, places for help etc."
+}
